@@ -1,0 +1,15 @@
+# Virtual environment directory
+venv/
+
+# Environment variables file
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large files / build artifacts (optional, add more if needed)
+.DS_Store
+*.egg-info/
+*.egg
